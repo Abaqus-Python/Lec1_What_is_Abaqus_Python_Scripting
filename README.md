@@ -1,0 +1,1 @@
+# Lec1_What_is_Abaqus_Python_Scripting
